@@ -19,7 +19,7 @@ I find an inverted U-shaped relationship between **AI Development Globalization*
 
 ### Main Results: Impact on Foreign Profit
 
-**Table 4: Two-Way Fixed Effects and Dynamic Panel Models**
+**Table 1: Two-Way Fixed Effects and Dynamic Panel Models**
 
 | Variable | (4) FE Foreign Profit | (5) Arellano-Bond Foreign Profit |
 | :--- | :--- | :--- |
@@ -41,3 +41,8 @@ I find an inverted U-shaped relationship between **AI Development Globalization*
 | **Number of Firms** | 452 | 431 |
 
 *Standard errors in parentheses. \*\*\* p<0.01, \*\* p<0.05, \* p<0.1*
+
+
+**Figure 1: Predictive Values of Foreign Profits at Different Values of AI Development Globalization.**
+<img src="docs/images/AIDG.jpg" width="600" alt="Predictive Values of Foreign Profits at Different Values of AIDG">
+
