@@ -1,4 +1,4 @@
-# Artificial Intelligence and Globalization Performance of Multinational Enterprises
+# AI Development Globalization and Multinational Enterprises' Performance
 
 ## Overview
 
